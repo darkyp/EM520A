@@ -110,6 +110,12 @@ This project demonstrates that budget consumer hardware can be successfully main
 
 ---
 
+## ToDo
+1. Investigate in more detail the `0x33` frame format and readings - how they correlate to measured temperatures;
+2. A difficult one - use only the RS communication to program the EEPROM - i.e. how to instruct the MCU to perform EEPROM writes. A helpful hand from the initial manufacturer might be needed.
+
+---
+
 ## Credits
 * **Hardware Reverse Engineering & Diagnostics:** Ivo Andonov
 * **Analysis & Report Compilation:** Developed in collaboration with Gemini, an AI collaborator by Google.
